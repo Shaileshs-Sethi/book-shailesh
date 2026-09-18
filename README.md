@@ -1,3 +1,4 @@
 # book-shailesh
-this is my first git Repository
-Auther-Shailesh Sethi
+this is my first git Repository.
+<br>
+Author-Shailesh Sethi
